@@ -11,6 +11,7 @@ Whether it’s solving small problems 🧩 or experimenting with formatting 🎨
 |----------------------|-------------------------------------------|---------------------------------|
 | `calculator.py`      | CLI calculator for basic operations       | Input/output, logic, flow       |
 | `guess_num.py`       | A simple number guessing game             | Loops, conditionals, functions  |
+| `temperature_converter.py`       | Convert temperature between C, K, and F          | Loops, conditionals, functions, match case, dictionaries  |
 
 ---
 
