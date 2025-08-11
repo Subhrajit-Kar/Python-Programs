@@ -9,9 +9,9 @@ Whether it’s solving small problems 🧩 or experimenting with formatting 🎨
 
 | 📝 Script Name       | 🔍 Description                            | 🧠 Concepts Practiced           |
 |----------------------|-------------------------------------------|---------------------------------|
-| `calculator.py`      | CLI calculator for basic operations       | Input/output, logic, flow       |
-| `guess_num.py`       | A simple number guessing game             | Loops, conditionals, functions  |
-| `temperature_converter.py`       | Convert temperature between C, K, and F          | Loops, conditionals, functions, match case, dictionaries  |
+| [`calculator.py`](calculator.py)      | CLI calculator for basic operations       | Input/output, logic, flow       |
+| [`guess_num.py`](guess_num.py)       | A simple number guessing game             | Loops, conditionals, functions  |
+| [`temperature_converter.py`](temperature_converter.py)       | Convert temperature between C, K, and F          | Loops, conditionals, functions, match case, dictionaries  |
 
 ---
 
