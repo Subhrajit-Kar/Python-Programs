@@ -12,6 +12,7 @@ Whether it’s solving small problems 🧩 or experimenting with formatting 🎨
 | [📟 Calculator Tool](calculator.py)      | CLI calculator for basic operations       | Input/output, logic, flow       |
 | [🎯 Number Guessing Game](guess_num.py)       | A simple number guessing game             | Loops, conditionals, functions  |
 | [🌡️ Temp Converter](temperature_converter.py)       | Convert temperature between C, K, and F          | Loops, conditionals, functions, match case, dictionaries  |
+| [📟 Dice Rolling Game](dice-rolling-simulator.py)      | a dice rolling simulator       | loops, functions, conditionals       |
 
 ---
 
